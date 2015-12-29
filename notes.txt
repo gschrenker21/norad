@@ -1,0 +1,3 @@
+Norad Project 29DEC15
+
+15:44 29DEC: The first app didn't work as planned so I am blowing it away then uploading this text to git. Need to figure out all the file relations again with ruby. 
